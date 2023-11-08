@@ -92,8 +92,8 @@ InputService.WindowFocusReleased:Connect(
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local Window = OrionLib:MakeWindow({
-    Name = "Quiz Hub",
-    IntroText = "Quiz Hub",
+    Name = "Tomato Hub 🍅",
+    IntroText = "Tomato Hub 🍅",
     HidePremium = false,
     SaveConfig = true,
     ConfigFolder = "OrionTest"
